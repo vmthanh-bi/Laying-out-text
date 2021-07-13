@@ -86,20 +86,20 @@ Things you need to use the software.
 
 Clone this repo.
    ```sh
-   git clone https://github.com/vmthanh-bi/Prim-s-Algorithm.git
+   git clone https://github.com/vmthanh-bi/Laying-out-text.git
    ```
 
 <!-- Help -->
 ## Help
 
-See the [open issues](https://github.com/vmthanh-bi/Prim-s-Algorithm/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/vmthanh-bi/Laying-out-text/issues) for a list of proposed features (and known issues).
 
 <!-- CONTACT -->
 ## Contact
 
 Tony Vu - [@vmthanh.bi](https://github.com/vmthanh-bi) - vmthanh.bi@gmail.com
 
-Project Link: [https://github.com/vmthanh-bi/Prim-s-Algorithm](https://github.com/vmthanh-bi/Prim-s-Algorithm)
+Project Link: [https://github.com/vmthanh-bi/Laying-out-text](https://github.com/vmthanh-bi/Laying-out-text)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
